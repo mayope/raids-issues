@@ -23,6 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Log Files**
+Please attach both `Player.log` and `Player-prev.log` located in `C:\Users\<username>\AppData\LocalLow\Mayope Software Services UG(haftungsbeschränkt)\RaidsClient`
+
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
